@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/epsilon/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/epsilon/Desktop/SudokuSolver-AndroidApp/sudokuSolver/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_30adedf791dcd8344f75727a4047c4c8421df0d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/epsilon/Desktop/SudokuSolver-AndroidApp/sudokuSolver/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/epsilon/Desktop/SudokuSolver-AndroidApp/sudokuSolver/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_a223872c70a907a3076fdbec6bf7498cc55da561.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/epsilon/Desktop/SudokuSolver-AndroidApp/sudokuSolver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/epsilon/Desktop/SudokuSolver-AndroidApp/sudokuSolver/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_e4f57796dc5cf888c2017ed32c89540fbce5771a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/epsilon/Desktop/SudokuSolver-AndroidApp/sudokuSolver/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/epsilon/Desktop/SudokuSolver-AndroidApp/sudokuSolver/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_8af56259940257ed2a9c0c2f8d0a59f473b99f1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/epsilon/Desktop/SudokuSolver-AndroidApp/sudokuSolver/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/epsilon/Desktop/SudokuSolver-AndroidApp/sudokuSolver/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_56fc96b8440666ffb35613a4691c529969be0c8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/epsilon/Desktop/SudokuSolver-AndroidApp/sudokuSolver/build/intermediates/exploded-aar/com.rmtheis/tess-two/6.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2e1e80e5618ce24efaf884fec3cf6133ba2d6555">
+        <dex dex="/Users/epsilon/Desktop/SudokuSolver-AndroidApp/sudokuSolver/build/intermediates/pre-dexed/debug/com.rmtheis-tess-two-6.2.0_12b38e30feb654f630de43b777c36ed2dddf9da4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/epsilon/Desktop/SudokuSolver-AndroidApp/sudokuSolver/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/epsilon/Desktop/SudokuSolver-AndroidApp/sudokuSolver/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_26b744465ce5f7cefdb2f0f2be742a4de5a54e97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/epsilon/Desktop/SudokuSolver-AndroidApp/sudokuSolver/build/intermediates/exploded-aar/SudokuSolver-AndroidApp/openCVLibrary2410/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bda44f7fa4cad2e77f39036116d5fc77fb92bacb">
+        <dex dex="/Users/epsilon/Desktop/SudokuSolver-AndroidApp/sudokuSolver/build/intermediates/pre-dexed/debug/SudokuSolver-AndroidApp-openCVLibrary2410-unspecified_2ac55a38c4f1af65745c7939ab585365fefad71b.jar" />
+    </item>
+
+</items>
